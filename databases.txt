@@ -1,64 +1,7 @@
-টাঙ্গাইল-১ | https://www.dropbox.com/scl/fi/ps1kv3n5r1807wynoth87/.db?rlkey=gyfhfyeawj5g8ntk3c1sqm5m2&st=jix5my2c&dl=0
+# databases.txt — ডাটাবেস তালিকা (কন্ট্রোল প্যানেল admin.html থেকে বদলান)
+# ফরম্যাট: নাম | লিংক | সংস্করণ | price=দাম | for=আইডি,ইমেইল | off | hide | note=... | msg=...
+@default price=200
 
+টাঙ্গাইল-১ | https://www.dropbox.com/scl/fi/ps1kv3n5r1807wynoth87/.db?rlkey=gyfhfyeawj5g8ntk3c1sqm5m2&st=jix5my2c&dl=1
 
 টাঙ্গাইল-২ | https://www.dropbox.com/scl/fi/9vusyx8at4fkmekc7q6cp/.db?rlkey=s98y41pl5j3mpzjhi2ws0qtrp&st=asq04ogk&dl=1
-
-
-নওগাঁ-১ | https://www.dropbox.com/scl/fi/bk3jnfkpn5oidgv3ldi8y/1.db?rlkey=0445a8sqk050onoqvn6o27h2d&st=3th810n4&dl=1
-
-
-চট্টগ্রাম-৭ | https://www.dropbox.com/scl/fi/1p787w9ntwlagzp5o88ml/7.db?rlkey=gr5fltokjpsios3grywlyw9ao&st=vonwzfqh&dl=1
-
-
-পটুয়াখালী-২ | https://www.dropbox.com/scl/fi/6h9ia7j9poewcg54oaieb/2.db?rlkey=e6pp8hgi01n89oko5pw37xw04&st=ff12hgf4&dl=1
-
-
-ঢাকা-৮ | https://www.dropbox.com/scl/fi/3wushq2z410jes72npbqx/.db?rlkey=37o7pqncw3ts1xjtcomsg311z&st=s48emsmo&dl=1
-
-
-চট্টগ্রাম-১ | https://www.dropbox.com/scl/fi/jknv7xz1g5tuy6mnl191f/1.db?rlkey=k2moe880fc7x8ixy44wdxyatw&st=b62uz67q&dl=1
-
-
-কচুয়া-১ | https://www.dropbox.com/scl/fi/5w7lhjee57x6tgxross4b/.db?rlkey=4qgvc7nk174cdn807d2vbs24t&st=70k9ackl&dl=1
-
-
-হাজীগঞ্জ-১ | https://www.dropbox.com/scl/fi/l864ae6j2z547qhslyp6v/.db?rlkey=giwwp6oeppx1k7y1lzdfyxzrj&st=da2obkyo&dl=1
-
-
-কক্সবাজার-১ | https://www.dropbox.com/scl/fi/jxyyl44dv5xvxhckc2m5b/1.db?rlkey=nsxp3mruzs6ghto31cado9cgy&st=jajs9dg2&dl=1
-
-
-কক্সবাজার-3 | https://www.dropbox.com/scl/fi/tpgoy0i2v8f3aun6ww5dd/.db?rlkey=nsw9yesa6ik0fzf8sctdoy1dk&st=bexigdkf&dl=1
-
-
-কক্সবাজার-৪ | https://www.dropbox.com/scl/fi/159tl8q66pb0uz636aaev/4.db?rlkey=inatczsx4q7sw54nuzhr4gx74&st=lgwt26rj&dl=1
-
-
-কুমিল্লা-১১ | https://www.dropbox.com/scl/fi/9fsyb3owursh5u7cc7mip/.db?rlkey=78ug3ulgiq7oy7c3dbj9epbal&st=9tazkmwm&dl=1
-
-
-ঢাকা-৭ | https://www.dropbox.com/scl/fi/wzrciitgx708y560yx4x3/.db?rlkey=qgboxt5hvzos67wv3yd0azxfx&st=9k1x6hnz&dl=1
-
-
-ময়মনসিংহ-১ | https://www.dropbox.com/scl/fi/f186p3ak358p3hkny3mf4/.db?rlkey=vqwanbonam39w66sx64nyh60o&st=hvrp2ift&dl=1
-
-
-শেরপুর-২ | https://www.dropbox.com/scl/fi/nh1lbms0jlpyt3tfqczkb/.db?rlkey=q8swgo7u0cie92y7r5n3joyks&st=l1i1kg22&dl=1
-
-
-চট্টগ্রাম-৮ | https://www.dropbox.com/scl/fi/de3e6dxkt5ysyc63q6fe4/.db?rlkey=5k5yxzue00aky2z52faiqly41&st=en4smwfd&dl=1
-
-
-সিরাজগঞ্জে-৩ | https://www.dropbox.com/scl/fi/i0mb4f2vwyvpvzo9n6fe2/.db?rlkey=t65xvjg1vqrmcj23zcqalt3hd&st=nqjspuzf&dl=1
-
-
-সিরাজগঞ্জে-৪ | https://www.dropbox.com/scl/fi/vo3528xll31qd8v888rx8/.db?rlkey=szisms65e1ydi00dzvjqh30zp&st=drkcr5ko&dl=1
-
-
-সিরাজগঞ্জে-৬ | https://www.dropbox.com/scl/fi/rct4gvf0az3mpgtk25dy4/.db?rlkey=two2nxodk757x4e7ts0mmp04z&st=4g97jqjq&dl=1
-
-
-চট্টগ্রাম-১২ | https://www.dropbox.com/scl/fi/zbi3953x71jjwxbu4lmn4/.db?rlkey=mrskztvrleq55rl0jr1l1mkik&st=jnryeip0&dl=1
-
-
-গাইবান্ধা-৫ | https://www.dropbox.com/scl/fi/fqug8jk4k7gqiq8sz5g1n/.db?rlkey=aep1oi89q2y8029uvyo4rsttp&st=8h8pyme9&dl=1
