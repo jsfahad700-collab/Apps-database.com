@@ -3,6 +3,6 @@
 @default price=200
 @unlockall 5B5C-DE0A
 
-টাঙ্গাইল-১ | https://www.dropbox.com/scl/fi/ps1kv3n5r1807wynoth87/.db?rlkey=gyfhfyeawj5g8ntk3c1sqm5m2&st=jix5my2c&dl=1
+টাঙ্গাইল-১ | https://www.dropbox.com/scl/fi/ps1kv3n5r1807wynoth87/.db?rlkey=gyfhfyeawj5g8ntk3c1sqm5m2&st=jix5my2c&dl=1 | price=500
 
 টাঙ্গাইল-২ | https://www.dropbox.com/scl/fi/9vusyx8at4fkmekc7q6cp/.db?rlkey=s98y41pl5j3mpzjhi2ws0qtrp&st=asq04ogk&dl=1
